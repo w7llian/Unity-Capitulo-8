@@ -51,6 +51,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\ButtonExecute.cs" />
+     <Compile Include="Assets\ButtonExecuteTest.cs" />
      <Compile Include="Assets\Cardboard\Legacy\Scripts\CardboardOnGUI.cs" />
      <Compile Include="Assets\Cardboard\Legacy\Scripts\CardboardOnGUIMouse.cs" />
      <Compile Include="Assets\Cardboard\Legacy\Scripts\CardboardOnGUIWindow.cs" />
@@ -78,6 +80,8 @@
      <Compile Include="Assets\Cardboard\Scripts\VRDevices\CardboardAndroidDevice.cs" />
      <Compile Include="Assets\Cardboard\Scripts\VRDevices\CardboardiOSDevice.cs" />
      <Compile Include="Assets\Cardboard\Scripts\VRDevices\UnityEditorDevice.cs" />
+     <Compile Include="Assets\CursorPositioner.cs" />
+     <Compile Include="Assets\DestroyTimeout.cs" />
      <Compile Include="Assets\KillTarget.cs" />
      <Compile Include="Assets\LookMoveTo.cs" />
      <Compile Include="Assets\RandomPosition.cs" />
