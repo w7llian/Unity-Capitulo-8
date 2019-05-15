@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\BodyWalk.cs" />
      <Compile Include="Assets\ButtonExecute.cs" />
      <Compile Include="Assets\ButtonExecuteTest.cs" />
      <Compile Include="Assets\Cardboard\Legacy\Scripts\CardboardOnGUI.cs" />
@@ -82,6 +83,9 @@
      <Compile Include="Assets\Cardboard\Scripts\VRDevices\UnityEditorDevice.cs" />
      <Compile Include="Assets\CursorPositioner.cs" />
      <Compile Include="Assets\DestroyTimeout.cs" />
+     <Compile Include="Assets\GestureWalk.cs" />
+     <Compile Include="Assets\HeadGesture.cs" />
+     <Compile Include="Assets\HeadLookWalk.cs" />
      <Compile Include="Assets\KillTarget.cs" />
      <Compile Include="Assets\LookMoveTo.cs" />
      <Compile Include="Assets\RandomPosition.cs" />
@@ -93,6 +97,7 @@
      <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+     <Compile Include="Assets\Scripts\Clicker.cs" />
      <None Include="Assets\Cardboard\Resources\SkyboxMesh.shader" />
      <None Include="Assets\Cardboard\Distortion\CardboardDistortion.cginc" />
      <None Include="Assets\Cardboard\Resources\UnlitTexture.shader" />
