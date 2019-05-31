@@ -87,6 +87,7 @@
      <Compile Include="Assets\DestroySelf.cs" />
      <Compile Include="Assets\DestroyTimeout.cs" />
      <Compile Include="Assets\Elevate.cs" />
+     <Compile Include="Assets\ExhibitionRide.cs" />
      <Compile Include="Assets\GestureWalk.cs" />
      <Compile Include="Assets\HeadGesture.cs" />
      <Compile Include="Assets\HeadLookWalk.cs" />
@@ -95,6 +96,7 @@
      <Compile Include="Assets\KillTarget.cs" />
      <Compile Include="Assets\LookMoveTo.cs" />
      <Compile Include="Assets\Planet Earth Free\SpinFree.cs" />
+     <Compile Include="Assets\PopulateArtFrames.cs" />
      <Compile Include="Assets\RandomPosition.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
